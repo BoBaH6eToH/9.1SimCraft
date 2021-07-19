@@ -1,0 +1,169 @@
+AllItems.size() =28
+Titanic Ocular Gland
+252
+Trinket 1
+The Eye of the Jailer - Mythic
+2
+
+Self-Replicating Tissue
+252
+Back
+Guardian of the First Ones - Mythic
+7
+
+Spaulders of the Crooked Confidant
+259
+Shoulder
+Kel'Thuzad - Mythic
+8
+
+Flameclasp-Scorched Legguards
+252
+Legs
+Painsmith Raznal - Mythic
+11
+
+Bindings of the Subjugated
+252
+Wrist
+Trash Drop - Mythic
+17
+
+Cloak of Scarred Honor
+252
+Back
+Soulrender Dormazain - Mythic
+17
+
+Unstable Energizer Boots
+252
+Feet
+Guardian of the First Ones - Mythic
+22
+
+Fate-Threaded Bindings
+252
+Wrist
+Fatescribe Roh-Kalo - Mythic
+25
+
+Tarnished Insignia of Quel'Thalas
+259
+Finger 2
+Sylvanas Windrunner - Mythic
+27
+
+Clasps of the Unfortunate Troubadour
+252
+Wrist
+The Tarragrue - Mythic
+28
+
+Weathered Talisman of the Shadowmoon
+252
+Neck
+Remnant of Ner'zhul - Mythic
+34
+
+Daschla's Defiant Treads
+252
+Feet
+The Nine - Mythic
+37
+
+Tormented Rack Fragment
+252
+Trinket 1
+Painsmith Raznal - Mythic
+40
+
+Smuggler's Plundered Pauldrons
+252
+Shoulder
+The Tarragrue - Mythic
+45
+
+Trenchant Warmonger Treads
+252
+Feet
+Soulrender Dormazain - Mythic
+46
+
+Mawsworn Eviscerator's Cuirass
+252
+Chest
+The Eye of the Jailer - Mythic
+53
+
+Hangman's Knotbinders
+252
+Hands
+Painsmith Raznal - Mythic
+57
+
+Loyal Kvaldir's Handwraps
+252
+Hands
+The Eye of the Jailer - Mythic
+65
+
+Scoundrel's Harrowed Leggings
+252
+Legs
+Trash Drop - Mythic
+66
+
+Pylon of the Great Purge
+252
+Main Hand
+Guardian of the First Ones - Mythic
+72
+
+Dormazain's Tenderizer
+252
+Main Hand
+Soulrender Dormazain - Mythic
+75
+
+Jotungeirr, Destiny's Call
+252
+Main Hand
+The Nine - Mythic
+84
+
+Skyja's Revenant Fury
+252
+Main Hand
+The Nine - Mythic
+84
+
+Elite Aranakk Breeches
+259
+Legs
+Kel'Thuzad - Mythic
+99
+
+Witherheart Studded Breastplate
+259
+Chest
+Sylvanas Windrunner - Mythic
+107
+
+Relic of the Frozen Wastes
+259
+Trinket 1
+Kel'Thuzad - Mythic
+112
+
+Salvaged Fusion Amplifier
+252
+Trinket 1
+Guardian of the First Ones - Mythic
+157
+
+Cruciform Veinripper
+252
+Main Hand
+Painsmith Raznal - Mythic
+280
+

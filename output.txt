@@ -1,0 +1,534 @@
+Risen Monstrosity Cuffs
+252
+Wrist
+The Necrotic Wake - +15 Weekly Chest
+0
+
+Titanic Ocular Gland
+252
+Trinket 1
+The Eye of the Jailer - Mythic
+2
+
+Signet of the False Accuser
+252
+Finger 2
+Halls of Atonement - +15 Weekly Chest
+2
+
+Arachnid Cipher Ring
+252
+Finger 2
+Plaguefall - +15 Weekly Chest
+2
+
+Self-Replicating Tissue
+252
+Back
+Guardian of the First Ones - Mythic
+7
+
+Spaulders of the Crooked Confidant
+259
+Shoulder
+Kel'Thuzad - Mythic
+8
+
+Sapgorger Belt
+252
+Waist
+Mists of Tirna Scithe - +15 Weekly Chest
+10
+
+Flameclasp-Scorched Legguards
+252
+Legs
+Painsmith Raznal - Mythic
+11
+
+Ritual Commander's Ring
+252
+Finger 2
+The Necrotic Wake - +15 Weekly Chest
+12
+
+Bindings of the Subjugated
+252
+Wrist
+Trash Drop - Mythic
+17
+
+Cloak of Scarred Honor
+252
+Back
+Soulrender Dormazain - Mythic
+17
+
+Undying Chill Shoulderpads
+252
+Shoulder
+The Necrotic Wake - +15 Weekly Chest
+18
+
+Shadowhirl Waistwrap
+252
+Waist
+Spires of Ascension - +15 Weekly Chest
+18
+
+Waistcord of Dark Devotion
+252
+Waist
+Halls of Atonement - +15 Weekly Chest
+20
+
+Drape of Twisted Loyalties
+252
+Back
+Spires of Ascension - +15 Weekly Chest
+21
+
+Unstable Energizer Boots
+252
+Feet
+Guardian of the First Ones - Mythic
+22
+
+Fate-Threaded Bindings
+252
+Wrist
+Fatescribe Roh-Kalo - Mythic
+25
+
+Viscera-Stitched Footpads
+252
+Feet
+The Necrotic Wake - +15 Weekly Chest
+26
+
+Winged Hunters' Gloves
+252
+Hands
+Spires of Ascension - +15 Weekly Chest
+27
+
+Tarnished Insignia of Quel'Thalas
+259
+Finger 2
+Sylvanas Windrunner - Mythic
+27
+
+Fleshfused Circle
+252
+Finger 2
+Theater of Pain - +15 Weekly Chest
+28
+
+Clasps of the Unfortunate Troubadour
+252
+Wrist
+The Tarragrue - Mythic
+28
+
+Girdle of Shattered Dreams
+252
+Waist
+Theater of Pain - +15 Weekly Chest
+29
+
+Blighted Margrave's Cloak
+252
+Back
+Plaguefall - +15 Weekly Chest
+31
+
+Soulfeather Breeches
+252
+Legs
+De Other Side - +15 Weekly Chest
+32
+
+Weathered Talisman of the Shadowmoon
+252
+Neck
+Remnant of Ner'zhul - Mythic
+34
+
+Bottled Flayedwing Toxin
+252
+Trinket 1
+The Necrotic Wake - +15 Weekly Chest
+35
+
+Daschla's Defiant Treads
+252
+Feet
+The Nine - Mythic
+37
+
+Tormented Rack Fragment
+252
+Trinket 1
+Painsmith Raznal - Mythic
+40
+
+Ring of Perpetual Conflict
+252
+Finger 2
+Theater of Pain - +15 Weekly Chest
+43
+
+Smuggler's Plundered Pauldrons
+252
+Shoulder
+The Tarragrue - Mythic
+45
+
+Ritual Bone Band
+252
+Finger 2
+Theater of Pain - +15 Weekly Chest
+45
+
+Grim Codexxx
+252
+Trinket 1
+Theater of Pain - +15 Weekly Chest
+45
+
+Trenchant Warmonger Treads
+252
+Feet
+Soulrender Dormazain - Mythic
+46
+
+Dealer Xy'exa's Cape
+252
+Back
+De Other Side - +15 Weekly Chest
+46
+
+Cloak of Enveloping Manifestations
+252
+Back
+Sanguine Depths - +15 Weekly Chest
+47
+
+Sinsoaked Waders
+252
+Feet
+Sanguine Depths - +15 Weekly Chest
+47
+
+Freshly Embalmed Jerkin
+252
+Chest
+The Necrotic Wake - +15 Weekly Chest
+48
+
+Wicked Bladewing Pauldrons
+252
+Shoulder
+Sanguine Depths - +15 Weekly Chest
+49
+
+Skyterror's Stonehide Leggings
+252
+Legs
+Halls of Atonement - +15 Weekly Chest
+53
+
+Mawsworn Eviscerator's Cuirass
+252
+Chest
+The Eye of the Jailer - Mythic
+53
+
+Hangman's Knotbinders
+252
+Hands
+Painsmith Raznal - Mythic
+57
+
+Gloves of Obscure Rituals
+252
+Hands
+Plaguefall - +15 Weekly Chest
+59
+
+Entwined Gorger Tendril
+252
+Finger 2
+Sanguine Depths - +15 Weekly Chest
+60
+
+Trailspinner Pendant
+252
+Neck
+Mists of Tirna Scithe - +15 Weekly Chest
+60
+
+Gloves of Haunting Fixation
+252
+Hands
+Halls of Atonement - +15 Weekly Chest
+63
+
+Radiant Light Binders
+252
+Wrist
+Sanguine Depths - +15 Weekly Chest
+65
+
+Fastened Venombarb Binds
+252
+Wrist
+Plaguefall - +15 Weekly Chest
+65
+
+Loyal Kvaldir's Handwraps
+252
+Hands
+The Eye of the Jailer - Mythic
+65
+
+Scoundrel's Harrowed Leggings
+252
+Legs
+Trash Drop - Mythic
+66
+
+Inscrutable Quantum Device
+252
+Trinket 2
+De Other Side - +15 Weekly Chest
+67
+
+Primeval Soul's Ankleguards
+252
+Feet
+De Other Side - +15 Weekly Chest
+68
+
+Inscrutable Quantum Device
+252
+Trinket 1
+De Other Side - +15 Weekly Chest
+69
+
+Pylon of the Great Purge
+252
+Main Hand
+Guardian of the First Ones - Mythic
+72
+
+Malodorous Gristle-Sown Spaulders
+252
+Shoulder
+Plaguefall - +15 Weekly Chest
+73
+
+Abyssal Disharmony Breeches
+252
+Legs
+Spires of Ascension - +15 Weekly Chest
+74
+
+Bands of the Undergrowth
+252
+Wrist
+Mists of Tirna Scithe - +15 Weekly Chest
+74
+
+Dormazain's Tenderizer
+252
+Main Hand
+Soulrender Dormazain - Mythic
+75
+
+Decanter of Anima-Charged Winds
+252
+Trinket 1
+Sanguine Depths - +15 Weekly Chest
+78
+
+Azure-Venom Choker
+252
+Neck
+Spires of Ascension - +15 Weekly Chest
+82
+
+Rocket Chicken Handlers
+252
+Hands
+De Other Side - +15 Weekly Chest
+82
+
+Far Traveler's Shoulderpads
+252
+Shoulder
+De Other Side - +15 Weekly Chest
+84
+
+Skyja's Revenant Fury
+252
+Main Hand
+The Nine - Mythic
+84
+
+Jotungeirr, Destiny's Call
+252
+Main Hand
+The Nine - Mythic
+84
+
+Bloodspiller
+252
+Off Hand
+De Other Side - +15 Weekly Chest
+85
+
+Rainshadow Hauberk
+252
+Chest
+Mists of Tirna Scithe - +15 Weekly Chest
+90
+
+Fearless Challenger's Leggings
+252
+Legs
+Theater of Pain - +15 Weekly Chest
+91
+
+Elite Aranakk Breeches
+259
+Legs
+Kel'Thuzad - Mythic
+99
+
+Vest of Concealed Secrets
+252
+Chest
+Theater of Pain - +15 Weekly Chest
+105
+
+Stone General's Edge
+252
+Main Hand
+Sanguine Depths - +15 Weekly Chest
+106
+
+Witherheart Studded Breastplate
+259
+Chest
+Sylvanas Windrunner - Mythic
+107
+
+Relic of the Frozen Wastes
+259
+Trinket 1
+Kel'Thuzad - Mythic
+112
+
+Halberd of the Aranakk
+252
+Main Hand
+Plaguefall - +15 Weekly Chest
+113
+
+Gorebound Predator's Gavel
+252
+Main Hand
+Theater of Pain - +15 Weekly Chest
+114
+
+Anima-Splattered Hide
+252
+Chest
+Sanguine Depths - +15 Weekly Chest
+114
+
+Infinitely Divisible Ooze
+252
+Trinket 1
+Plaguefall - +15 Weekly Chest
+122
+
+Collector's Pulse Staff
+252
+Main Hand
+De Other Side - +15 Weekly Chest
+122
+
+Shadowgrasp Totem
+252
+Trinket 1
+De Other Side - +15 Weekly Chest
+129
+
+Xav's Pike of Authority
+252
+Main Hand
+Theater of Pain - +15 Weekly Chest
+132
+
+Penitent Edge
+252
+Main Hand
+Spires of Ascension - +15 Weekly Chest
+133
+
+Stoneguardian's Morningstar
+252
+Main Hand
+Halls of Atonement - +15 Weekly Chest
+133
+
+Bloodspiller
+252
+Main Hand
+De Other Side - +15 Weekly Chest
+142
+
+Poxstorm, Longsword of Pestilence
+252
+Main Hand
+Plaguefall - +15 Weekly Chest
+145
+
+Devos's Cacophonous Poleaxe
+252
+Main Hand
+Spires of Ascension - +15 Weekly Chest
+150
+
+Shadowgrasp Totem
+252
+Trinket 2
+De Other Side - +15 Weekly Chest
+152
+
+Quarterstaff of Discordant Ethic
+252
+Main Hand
+Spires of Ascension - +15 Weekly Chest
+155
+
+Salvaged Fusion Amplifier
+252
+Trinket 1
+Guardian of the First Ones - Mythic
+157
+
+Phial of Putrefaction
+252
+Trinket 1
+Plaguefall - +15 Weekly Chest
+169
+
+Cruciform Veinripper
+252
+Main Hand
+Painsmith Raznal - Mythic
+280
+

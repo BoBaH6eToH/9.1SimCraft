@@ -1,0 +1,75 @@
+Name:Phial of Putrefaction
+Slot:Trinket 1
+WhereIs:Plaguefall - +15 Weekly Chest
+PlusDps:169 ItemLvl:252
+
+Name:Shadowgrasp Totem
+Slot:Trinket 2
+WhereIs:De Other Side - +15 Weekly Chest
+PlusDps:152 ItemLvl:252
+
+Name:Cruciform Veinripper
+Slot:Main Hand
+WhereIs:Painsmith Raznal - Mythic
+PlusDps:280 ItemLvl:252
+
+Name:Elite Aranakk Breeches
+Slot:Legs
+WhereIs:Kel'Thuzad - Mythic
+PlusDps:99 ItemLvl:259
+
+Name:Anima-Splattered Hide
+Slot:Chest
+WhereIs:Sanguine Depths - +15 Weekly Chest
+PlusDps:114 ItemLvl:252
+
+Name:Bloodspiller
+Slot:Off Hand
+WhereIs:De Other Side - +15 Weekly Chest
+PlusDps:85 ItemLvl:252
+
+Name:Far Traveler's Shoulderpads
+Slot:Shoulder
+WhereIs:De Other Side - +15 Weekly Chest
+PlusDps:84 ItemLvl:252
+
+Name:Rocket Chicken Handlers
+Slot:Hands
+WhereIs:De Other Side - +15 Weekly Chest
+PlusDps:82 ItemLvl:252
+
+Name:Azure-Venom Choker
+Slot:Neck
+WhereIs:Spires of Ascension - +15 Weekly Chest
+PlusDps:82 ItemLvl:252
+
+Name:Bands of the Undergrowth
+Slot:Wrist
+WhereIs:Mists of Tirna Scithe - +15 Weekly Chest
+PlusDps:74 ItemLvl:252
+
+Name:Primeval Soul's Ankleguards
+Slot:Feet
+WhereIs:De Other Side - +15 Weekly Chest
+PlusDps:68 ItemLvl:252
+
+Name:Cloak of Enveloping Manifestations
+Slot:Back
+WhereIs:Sanguine Depths - +15 Weekly Chest
+PlusDps:47 ItemLvl:252
+
+Name:Girdle of Shattered Dreams
+Slot:Waist
+WhereIs:Theater of Pain - +15 Weekly Chest
+PlusDps:29 ItemLvl:252
+
+Name:
+Slot:Finger 1
+WhereIs:
+PlusDps:0 ItemLvl:1993098784
+
+Name:Entwined Gorger Tendril
+Slot:Finger 2
+WhereIs:Sanguine Depths - +15 Weekly Chest
+PlusDps:60 ItemLvl:252
+
